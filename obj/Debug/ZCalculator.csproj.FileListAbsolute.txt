@@ -1,0 +1,8 @@
+C:\Users\Wiz\Desktop\IGME 201\ZCalculator\bin\Debug\ZCalculator.exe.config
+C:\Users\Wiz\Desktop\IGME 201\ZCalculator\bin\Debug\ZCalculator.exe
+C:\Users\Wiz\Desktop\IGME 201\ZCalculator\bin\Debug\ZCalculator.pdb
+C:\Users\Wiz\Desktop\IGME 201\ZCalculator\obj\Debug\ZCalculator.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\ZCalculator\obj\Debug\ZCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\ZCalculator\obj\Debug\ZCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\ZCalculator\obj\Debug\ZCalculator.exe
+C:\Users\Wiz\Desktop\IGME 201\ZCalculator\obj\Debug\ZCalculator.pdb
